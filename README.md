@@ -2,8 +2,8 @@
 
 📍 Brasília - DF, Brasil
 
-💻 Desenvolvedor back-End 
-⌛ 10+ anos de experiência em tecnologia
+💻 Desenvolvedor Back-End 
+
 
 Me chamo Felipe Marcos, sou de Brasilia DF, trabalho com tecnologia mais de 10 anos entre suporte e desenvolvimento, graduado em Análise e Desenvolvimento de Sistemas na faculdade estácio e hoje, meu primeiro contato com a programação foi utilizando a linguagem PHP e hoje estou utilizando javascript e suas tecnologias.
 
